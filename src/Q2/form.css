@@ -1,0 +1,28 @@
+table{
+    width: fit-content;
+    margin: auto;
+}
+
+.message{
+    color: red;
+    font-size: 16px;
+}
+
+.message p {
+    margin: 0;
+
+}
+
+
+input{
+    padding: 3px;
+    margin: 0 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+

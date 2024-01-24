@@ -1,0 +1,12 @@
+button {
+  padding: 7px 0;
+}
+
+#buttons {
+  padding: 270px;
+  display: grid;
+  grid-template-columns: repeat(4, 50px);
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
